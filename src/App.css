@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.ui{
+  padding: 10px 0;
+}
+.ui.grid{
+  margin-top: 50px;
+}
+.ui.cards>.card .image {
+  padding: 20px;
+  background: #FFF;
+}
+.ui.cards>.card .image img {
+  max-height: 240px;
+  width: 100%;
+}
